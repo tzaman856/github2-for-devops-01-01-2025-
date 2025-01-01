@@ -1,3 +1,10 @@
   34 git remote -v
   35 clear
   36 git push origin master
+  48 git commit -m "git clone done"
+  49 git push origin master
+  50 git status
+  51 git add ..
+  52 git add gitcommands.txt
+  53 git commit -m "trying to commit gitcommands.txt"
+  54 git push origin master
