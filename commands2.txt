@@ -1,0 +1,3 @@
+  34 git remote -v
+  35 clear
+  36 git push origin master
