@@ -8,3 +8,4 @@
   52 git add gitcommands.txt
   53 git commit -m "trying to commit gitcommands.txt"
   54 git push origin master
+There have been some new changes
